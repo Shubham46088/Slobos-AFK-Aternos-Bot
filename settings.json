@@ -66,11 +66,11 @@
   },
   "combat": {
     "attack-mobs": true,
-    "auto-eat": true,
+    "auto-eat": true
   },
   "beds": {
     "pick-up-day": true,
-    "place-night": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
