@@ -1,5 +1,5 @@
 {
-  "name": "BOT MADE BY SHUBHAM",
+  "name": "SHUBHAM_BOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "RBDSMP.aternos.me",
     "port": 20526,
-    "version": "26.1.2 ",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
