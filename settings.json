@@ -1,14 +1,14 @@
 {
   "name": "SHUBHAM_BOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SHUBHAM_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "RBDSMP.aternos.me",
     "port": 20526,
-    "version": "",
+    "version":"1.12.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "i am black nga",
-        "made by shubham",
-        "I LIKE REM BTW"
+        "I AM BACK NGA",
+        "MADE BY SHUBHAM",
+        "I LIKE REM BTW",
+        "I LIKE EMILLIA BTW"
       ]
     },
     "chat-log": true,
